@@ -1,2 +1,3 @@
 # IOT_Assignment
  IoT System for Heat Index and Relative Humidity Visualization
+Designed and implemented an IoT system as part of the "Internet of Things and Big Data Analytics" university module assignment. The project aimed to indicate the current heat index of an environment and provide a visualization of current and predicted relative humidity data using a Node-RED dashboard. The system utilized temperature and humidity sensors, a microcontroller, and an ARIMA model for predictions. The project demonstrated proficiency in IoT architecture design, sensor integration, data analysis, and visualization techniques.
